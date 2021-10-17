@@ -19,8 +19,22 @@ adult = pd.read_csv("adult.data")
 
 adult.columns = get_labels_from_raw("adult.columns_raw") 
 
+print(adult.describe)
+print(adult.dtypes)
+
+adult = adult.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
+
 # set random seed for reproducibility
 np.random.seed(0)
 
 print(adult.head())
 
+# get the number of missing values
+missing_values_count = adult.isnull().sum()
+
+print(missing_values_count)
+
+# get ? values
+question_values = adult.isin(["?"]).sum()
+
+print(question_values)

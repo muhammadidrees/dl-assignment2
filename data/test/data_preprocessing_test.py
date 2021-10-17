@@ -2,8 +2,7 @@ import unittest
 
 import sys
 
-from numpy import equal
-sys.path.append('./')
+sys.path.append('./data/')
 from data_preprocessing import *
 
 import pandas as pd
@@ -12,7 +11,7 @@ class TestPreprocessingData(unittest.TestCase):
 
     def test_raw_lines_to_labels(self):
         expected_labels = ["A", "B"]
-        self.assertEqual(get_labels_from("./test/test.names"), expected_labels)
+        self.assertEqual(get_labels_from("./data/test/test.names"), expected_labels)
 
     def test_remove_leading_trailing_space_from(self):
         space_df = pd.DataFrame({"a": ["test ", "  test"], "b": ["test  ", " test"]})

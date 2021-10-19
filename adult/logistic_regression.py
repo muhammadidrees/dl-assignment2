@@ -36,11 +36,11 @@ class LogisticRegression(nn.Module):
 
 
 
-k_folds = 1
+k_folds = 10
 kfold = KFold(n_splits=k_folds, shuffle=True)
 
 accuracy = []
-for n in range(1):
+for n in range(10):
     for fold, (train_ids, test_ids) in enumerate(kfold.split(dataset)):
         # Print
         print(f'FOLD {fold}')

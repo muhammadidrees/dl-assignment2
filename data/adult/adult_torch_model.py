@@ -33,13 +33,11 @@ class AdultDataset(Dataset):
 
         X[rangeValues] = self.scaler.fit_transform(X[rangeValues])
 
-        print(X.head())
-        print(y.head())
 
         self.X = torch.from_numpy(X.values.astype(np.float32))
         self.y = torch.from_numpy(y.values.astype(np.float32))
 
-        self.n_samples = adult.shape[0]
+        self.n_samples, self.n_features = X.shape
 
 
     def __getitem__(self, index):

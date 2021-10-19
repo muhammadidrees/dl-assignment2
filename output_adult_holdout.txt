@@ -1,0 +1,900 @@
+iteration 0
+--------------------------------
+epoch: 25, loss = 0.0997
+epoch: 50, loss = 0.0956
+epoch: 75, loss = 0.0929
+epoch: 100, loss = 0.0905
+Accuracy = 0.7936
+--------------------------------
+iteration 1
+--------------------------------
+epoch: 25, loss = 0.1551
+epoch: 50, loss = 0.1310
+epoch: 75, loss = 0.1192
+epoch: 100, loss = 0.1119
+Accuracy = 0.8029
+--------------------------------
+iteration 2
+--------------------------------
+epoch: 25, loss = 0.1223
+epoch: 50, loss = 0.1062
+epoch: 75, loss = 0.1035
+epoch: 100, loss = 0.1028
+Accuracy = 0.8086
+--------------------------------
+iteration 3
+--------------------------------
+epoch: 25, loss = 0.2069
+epoch: 50, loss = 0.1792
+epoch: 75, loss = 0.1730
+epoch: 100, loss = 0.1695
+Accuracy = 0.7939
+--------------------------------
+iteration 4
+--------------------------------
+epoch: 25, loss = 0.1639
+epoch: 50, loss = 0.1552
+epoch: 75, loss = 0.1516
+epoch: 100, loss = 0.1501
+Accuracy = 0.8089
+--------------------------------
+iteration 5
+--------------------------------
+epoch: 25, loss = 0.0909
+epoch: 50, loss = 0.0904
+epoch: 75, loss = 0.0875
+epoch: 100, loss = 0.0843
+Accuracy = 0.7995
+--------------------------------
+iteration 6
+--------------------------------
+epoch: 25, loss = 0.1637
+epoch: 50, loss = 0.1496
+epoch: 75, loss = 0.1441
+epoch: 100, loss = 0.1397
+Accuracy = 0.7970
+--------------------------------
+iteration 7
+--------------------------------
+epoch: 25, loss = 0.2476
+epoch: 50, loss = 0.2026
+epoch: 75, loss = 0.1918
+epoch: 100, loss = 0.1848
+Accuracy = 0.8039
+--------------------------------
+iteration 8
+--------------------------------
+epoch: 25, loss = 0.1705
+epoch: 50, loss = 0.1351
+epoch: 75, loss = 0.1196
+epoch: 100, loss = 0.1099
+Accuracy = 0.7985
+--------------------------------
+iteration 9
+--------------------------------
+epoch: 25, loss = 0.1026
+epoch: 50, loss = 0.0904
+epoch: 75, loss = 0.0849
+epoch: 100, loss = 0.0835
+Accuracy = 0.8018
+--------------------------------
+iteration 10
+--------------------------------
+epoch: 25, loss = 0.1778
+epoch: 50, loss = 0.1578
+epoch: 75, loss = 0.1435
+epoch: 100, loss = 0.1326
+Accuracy = 0.7868
+--------------------------------
+iteration 11
+--------------------------------
+epoch: 25, loss = 0.1269
+epoch: 50, loss = 0.1074
+epoch: 75, loss = 0.1007
+epoch: 100, loss = 0.0953
+Accuracy = 0.8004
+--------------------------------
+iteration 12
+--------------------------------
+epoch: 25, loss = 0.2201
+epoch: 50, loss = 0.1994
+epoch: 75, loss = 0.1869
+epoch: 100, loss = 0.1782
+Accuracy = 0.8100
+--------------------------------
+iteration 13
+--------------------------------
+epoch: 25, loss = 0.1756
+epoch: 50, loss = 0.1820
+epoch: 75, loss = 0.1865
+epoch: 100, loss = 0.1876
+Accuracy = 0.7938
+--------------------------------
+iteration 14
+--------------------------------
+epoch: 25, loss = 0.2517
+epoch: 50, loss = 0.2321
+epoch: 75, loss = 0.2293
+epoch: 100, loss = 0.2256
+Accuracy = 0.7886
+--------------------------------
+iteration 15
+--------------------------------
+epoch: 25, loss = 0.1860
+epoch: 50, loss = 0.1667
+epoch: 75, loss = 0.1637
+epoch: 100, loss = 0.1627
+Accuracy = 0.7962
+--------------------------------
+iteration 16
+--------------------------------
+epoch: 25, loss = 0.2344
+epoch: 50, loss = 0.1872
+epoch: 75, loss = 0.1680
+epoch: 100, loss = 0.1579
+Accuracy = 0.8038
+--------------------------------
+iteration 17
+--------------------------------
+epoch: 25, loss = 0.1859
+epoch: 50, loss = 0.1678
+epoch: 75, loss = 0.1582
+epoch: 100, loss = 0.1520
+Accuracy = 0.7962
+--------------------------------
+iteration 18
+--------------------------------
+epoch: 25, loss = 0.1678
+epoch: 50, loss = 0.1564
+epoch: 75, loss = 0.1510
+epoch: 100, loss = 0.1479
+Accuracy = 0.7979
+--------------------------------
+iteration 19
+--------------------------------
+epoch: 25, loss = 0.2070
+epoch: 50, loss = 0.1914
+epoch: 75, loss = 0.1859
+epoch: 100, loss = 0.1821
+Accuracy = 0.8007
+--------------------------------
+iteration 20
+--------------------------------
+epoch: 25, loss = 0.1315
+epoch: 50, loss = 0.1130
+epoch: 75, loss = 0.1009
+epoch: 100, loss = 0.0924
+Accuracy = 0.8073
+--------------------------------
+iteration 21
+--------------------------------
+epoch: 25, loss = 0.1613
+epoch: 50, loss = 0.1365
+epoch: 75, loss = 0.1208
+epoch: 100, loss = 0.1138
+Accuracy = 0.7916
+--------------------------------
+iteration 22
+--------------------------------
+epoch: 25, loss = 0.2054
+epoch: 50, loss = 0.1766
+epoch: 75, loss = 0.1660
+epoch: 100, loss = 0.1605
+Accuracy = 0.7880
+--------------------------------
+iteration 23
+--------------------------------
+epoch: 25, loss = 0.2263
+epoch: 50, loss = 0.1467
+epoch: 75, loss = 0.1222
+epoch: 100, loss = 0.1135
+Accuracy = 0.8015
+--------------------------------
+iteration 24
+--------------------------------
+epoch: 25, loss = 0.1225
+epoch: 50, loss = 0.1058
+epoch: 75, loss = 0.1004
+epoch: 100, loss = 0.0966
+Accuracy = 0.7862
+--------------------------------
+iteration 25
+--------------------------------
+epoch: 25, loss = 0.0997
+epoch: 50, loss = 0.0859
+epoch: 75, loss = 0.0790
+epoch: 100, loss = 0.0750
+Accuracy = 0.7995
+--------------------------------
+iteration 26
+--------------------------------
+epoch: 25, loss = 0.2268
+epoch: 50, loss = 0.1459
+epoch: 75, loss = 0.1317
+epoch: 100, loss = 0.1263
+Accuracy = 0.7839
+--------------------------------
+iteration 27
+--------------------------------
+epoch: 25, loss = 0.2490
+epoch: 50, loss = 0.1535
+epoch: 75, loss = 0.1451
+epoch: 100, loss = 0.1400
+Accuracy = 0.8024
+--------------------------------
+iteration 28
+--------------------------------
+epoch: 25, loss = 0.1859
+epoch: 50, loss = 0.1561
+epoch: 75, loss = 0.1489
+epoch: 100, loss = 0.1434
+Accuracy = 0.8062
+--------------------------------
+iteration 29
+--------------------------------
+epoch: 25, loss = 0.1612
+epoch: 50, loss = 0.1337
+epoch: 75, loss = 0.1178
+epoch: 100, loss = 0.1076
+Accuracy = 0.8011
+--------------------------------
+iteration 30
+--------------------------------
+epoch: 25, loss = 0.2721
+epoch: 50, loss = 0.1639
+epoch: 75, loss = 0.1484
+epoch: 100, loss = 0.1407
+Accuracy = 0.7965
+--------------------------------
+iteration 31
+--------------------------------
+epoch: 25, loss = 0.2282
+epoch: 50, loss = 0.2229
+epoch: 75, loss = 0.2179
+epoch: 100, loss = 0.2130
+Accuracy = 0.7963
+--------------------------------
+iteration 32
+--------------------------------
+epoch: 25, loss = 0.1577
+epoch: 50, loss = 0.1399
+epoch: 75, loss = 0.1348
+epoch: 100, loss = 0.1313
+Accuracy = 0.7970
+--------------------------------
+iteration 33
+--------------------------------
+epoch: 25, loss = 0.2334
+epoch: 50, loss = 0.2049
+epoch: 75, loss = 0.1971
+epoch: 100, loss = 0.1935
+Accuracy = 0.7988
+--------------------------------
+iteration 34
+--------------------------------
+epoch: 25, loss = 0.1455
+epoch: 50, loss = 0.1392
+epoch: 75, loss = 0.1352
+epoch: 100, loss = 0.1311
+Accuracy = 0.8037
+--------------------------------
+iteration 35
+--------------------------------
+epoch: 25, loss = 0.2062
+epoch: 50, loss = 0.1670
+epoch: 75, loss = 0.1618
+epoch: 100, loss = 0.1589
+Accuracy = 0.7896
+--------------------------------
+iteration 36
+--------------------------------
+epoch: 25, loss = 0.2137
+epoch: 50, loss = 0.2028
+epoch: 75, loss = 0.2025
+epoch: 100, loss = 0.2016
+Accuracy = 0.8161
+--------------------------------
+iteration 37
+--------------------------------
+epoch: 25, loss = 0.1607
+epoch: 50, loss = 0.1510
+epoch: 75, loss = 0.1494
+epoch: 100, loss = 0.1504
+Accuracy = 0.7939
+--------------------------------
+iteration 38
+--------------------------------
+epoch: 25, loss = 0.1850
+epoch: 50, loss = 0.1758
+epoch: 75, loss = 0.1759
+epoch: 100, loss = 0.1755
+Accuracy = 0.7999
+--------------------------------
+iteration 39
+--------------------------------
+epoch: 25, loss = 0.1068
+epoch: 50, loss = 0.0884
+epoch: 75, loss = 0.0812
+epoch: 100, loss = 0.0793
+Accuracy = 0.7939
+--------------------------------
+iteration 40
+--------------------------------
+epoch: 25, loss = 0.1809
+epoch: 50, loss = 0.1604
+epoch: 75, loss = 0.1500
+epoch: 100, loss = 0.1427
+Accuracy = 0.8037
+--------------------------------
+iteration 41
+--------------------------------
+epoch: 25, loss = 0.1085
+epoch: 50, loss = 0.0984
+epoch: 75, loss = 0.0956
+epoch: 100, loss = 0.0940
+Accuracy = 0.8005
+--------------------------------
+iteration 42
+--------------------------------
+epoch: 25, loss = 0.1667
+epoch: 50, loss = 0.1581
+epoch: 75, loss = 0.1540
+epoch: 100, loss = 0.1507
+Accuracy = 0.8035
+--------------------------------
+iteration 43
+--------------------------------
+epoch: 25, loss = 0.1786
+epoch: 50, loss = 0.1647
+epoch: 75, loss = 0.1625
+epoch: 100, loss = 0.1616
+Accuracy = 0.7981
+--------------------------------
+iteration 44
+--------------------------------
+epoch: 25, loss = 0.2755
+epoch: 50, loss = 0.2617
+epoch: 75, loss = 0.2497
+epoch: 100, loss = 0.2403
+Accuracy = 0.8036
+--------------------------------
+iteration 45
+--------------------------------
+epoch: 25, loss = 0.0648
+epoch: 50, loss = 0.0720
+epoch: 75, loss = 0.0716
+epoch: 100, loss = 0.0694
+Accuracy = 0.7937
+--------------------------------
+iteration 46
+--------------------------------
+epoch: 25, loss = 0.2851
+epoch: 50, loss = 0.2730
+epoch: 75, loss = 0.2695
+epoch: 100, loss = 0.2675
+Accuracy = 0.8069
+--------------------------------
+iteration 47
+--------------------------------
+epoch: 25, loss = 0.1279
+epoch: 50, loss = 0.1342
+epoch: 75, loss = 0.1364
+epoch: 100, loss = 0.1370
+Accuracy = 0.8013
+--------------------------------
+iteration 48
+--------------------------------
+epoch: 25, loss = 0.2285
+epoch: 50, loss = 0.1916
+epoch: 75, loss = 0.1784
+epoch: 100, loss = 0.1727
+Accuracy = 0.8034
+--------------------------------
+iteration 49
+--------------------------------
+epoch: 25, loss = 0.1560
+epoch: 50, loss = 0.1451
+epoch: 75, loss = 0.1415
+epoch: 100, loss = 0.1402
+Accuracy = 0.8016
+--------------------------------
+iteration 50
+--------------------------------
+epoch: 25, loss = 0.1334
+epoch: 50, loss = 0.1272
+epoch: 75, loss = 0.1201
+epoch: 100, loss = 0.1143
+Accuracy = 0.7919
+--------------------------------
+iteration 51
+--------------------------------
+epoch: 25, loss = 0.1370
+epoch: 50, loss = 0.1357
+epoch: 75, loss = 0.1369
+epoch: 100, loss = 0.1374
+Accuracy = 0.8077
+--------------------------------
+iteration 52
+--------------------------------
+epoch: 25, loss = 0.1176
+epoch: 50, loss = 0.1209
+epoch: 75, loss = 0.1199
+epoch: 100, loss = 0.1181
+Accuracy = 0.8143
+--------------------------------
+iteration 53
+--------------------------------
+epoch: 25, loss = 0.1585
+epoch: 50, loss = 0.1402
+epoch: 75, loss = 0.1366
+epoch: 100, loss = 0.1343
+Accuracy = 0.7936
+--------------------------------
+iteration 54
+--------------------------------
+epoch: 25, loss = 0.1472
+epoch: 50, loss = 0.1175
+epoch: 75, loss = 0.1107
+epoch: 100, loss = 0.1075
+Accuracy = 0.7924
+--------------------------------
+iteration 55
+--------------------------------
+epoch: 25, loss = 0.1758
+epoch: 50, loss = 0.1974
+epoch: 75, loss = 0.1898
+epoch: 100, loss = 0.1884
+Accuracy = 0.8056
+--------------------------------
+iteration 56
+--------------------------------
+epoch: 25, loss = 0.2039
+epoch: 50, loss = 0.1332
+epoch: 75, loss = 0.1180
+epoch: 100, loss = 0.1130
+Accuracy = 0.8017
+--------------------------------
+iteration 57
+--------------------------------
+epoch: 25, loss = 0.1983
+epoch: 50, loss = 0.1567
+epoch: 75, loss = 0.1493
+epoch: 100, loss = 0.1459
+Accuracy = 0.8145
+--------------------------------
+iteration 58
+--------------------------------
+epoch: 25, loss = 0.1740
+epoch: 50, loss = 0.1754
+epoch: 75, loss = 0.1764
+epoch: 100, loss = 0.1771
+Accuracy = 0.8100
+--------------------------------
+iteration 59
+--------------------------------
+epoch: 25, loss = 0.1930
+epoch: 50, loss = 0.1639
+epoch: 75, loss = 0.1609
+epoch: 100, loss = 0.1565
+Accuracy = 0.8077
+--------------------------------
+iteration 60
+--------------------------------
+epoch: 25, loss = 0.2496
+epoch: 50, loss = 0.2317
+epoch: 75, loss = 0.2281
+epoch: 100, loss = 0.2275
+Accuracy = 0.7905
+--------------------------------
+iteration 61
+--------------------------------
+epoch: 25, loss = 0.2082
+epoch: 50, loss = 0.2197
+epoch: 75, loss = 0.2272
+epoch: 100, loss = 0.2318
+Accuracy = 0.7965
+--------------------------------
+iteration 62
+--------------------------------
+epoch: 25, loss = 0.1726
+epoch: 50, loss = 0.1739
+epoch: 75, loss = 0.1767
+epoch: 100, loss = 0.1796
+Accuracy = 0.8033
+--------------------------------
+iteration 63
+--------------------------------
+epoch: 25, loss = 0.2886
+epoch: 50, loss = 0.2582
+epoch: 75, loss = 0.2501
+epoch: 100, loss = 0.2455
+Accuracy = 0.8035
+--------------------------------
+iteration 64
+--------------------------------
+epoch: 25, loss = 0.2068
+epoch: 50, loss = 0.1542
+epoch: 75, loss = 0.1387
+epoch: 100, loss = 0.1324
+Accuracy = 0.8032
+--------------------------------
+iteration 65
+--------------------------------
+epoch: 25, loss = 0.1257
+epoch: 50, loss = 0.1279
+epoch: 75, loss = 0.1251
+epoch: 100, loss = 0.1216
+Accuracy = 0.7943
+--------------------------------
+iteration 66
+--------------------------------
+epoch: 25, loss = 0.1966
+epoch: 50, loss = 0.1574
+epoch: 75, loss = 0.1530
+epoch: 100, loss = 0.1504
+Accuracy = 0.8098
+--------------------------------
+iteration 67
+--------------------------------
+epoch: 25, loss = 0.2099
+epoch: 50, loss = 0.2026
+epoch: 75, loss = 0.2045
+epoch: 100, loss = 0.2069
+Accuracy = 0.7916
+--------------------------------
+iteration 68
+--------------------------------
+epoch: 25, loss = 0.1278
+epoch: 50, loss = 0.1106
+epoch: 75, loss = 0.1068
+epoch: 100, loss = 0.1033
+Accuracy = 0.7916
+--------------------------------
+iteration 69
+--------------------------------
+epoch: 25, loss = 0.1493
+epoch: 50, loss = 0.1529
+epoch: 75, loss = 0.1553
+epoch: 100, loss = 0.1554
+Accuracy = 0.8000
+--------------------------------
+iteration 70
+--------------------------------
+epoch: 25, loss = 0.1859
+epoch: 50, loss = 0.1766
+epoch: 75, loss = 0.1742
+epoch: 100, loss = 0.1722
+Accuracy = 0.8071
+--------------------------------
+iteration 71
+--------------------------------
+epoch: 25, loss = 0.2195
+epoch: 50, loss = 0.1907
+epoch: 75, loss = 0.1792
+epoch: 100, loss = 0.1721
+Accuracy = 0.7934
+--------------------------------
+iteration 72
+--------------------------------
+epoch: 25, loss = 0.1361
+epoch: 50, loss = 0.1296
+epoch: 75, loss = 0.1244
+epoch: 100, loss = 0.1203
+Accuracy = 0.7976
+--------------------------------
+iteration 73
+--------------------------------
+epoch: 25, loss = 0.1025
+epoch: 50, loss = 0.0940
+epoch: 75, loss = 0.0886
+epoch: 100, loss = 0.0860
+Accuracy = 0.7926
+--------------------------------
+iteration 74
+--------------------------------
+epoch: 25, loss = 0.1890
+epoch: 50, loss = 0.1734
+epoch: 75, loss = 0.1726
+epoch: 100, loss = 0.1697
+Accuracy = 0.7970
+--------------------------------
+iteration 75
+--------------------------------
+epoch: 25, loss = 0.1772
+epoch: 50, loss = 0.1314
+epoch: 75, loss = 0.1055
+epoch: 100, loss = 0.0876
+Accuracy = 0.7925
+--------------------------------
+iteration 76
+--------------------------------
+epoch: 25, loss = 0.1554
+epoch: 50, loss = 0.1455
+epoch: 75, loss = 0.1426
+epoch: 100, loss = 0.1407
+Accuracy = 0.8137
+--------------------------------
+iteration 77
+--------------------------------
+epoch: 25, loss = 0.1632
+epoch: 50, loss = 0.1513
+epoch: 75, loss = 0.1475
+epoch: 100, loss = 0.1460
+Accuracy = 0.7975
+--------------------------------
+iteration 78
+--------------------------------
+epoch: 25, loss = 0.1440
+epoch: 50, loss = 0.1307
+epoch: 75, loss = 0.1232
+epoch: 100, loss = 0.1187
+Accuracy = 0.8030
+--------------------------------
+iteration 79
+--------------------------------
+epoch: 25, loss = 0.1598
+epoch: 50, loss = 0.1428
+epoch: 75, loss = 0.1353
+epoch: 100, loss = 0.1306
+Accuracy = 0.7928
+--------------------------------
+iteration 80
+--------------------------------
+epoch: 25, loss = 0.1624
+epoch: 50, loss = 0.1656
+epoch: 75, loss = 0.1686
+epoch: 100, loss = 0.1710
+Accuracy = 0.7906
+--------------------------------
+iteration 81
+--------------------------------
+epoch: 25, loss = 0.1870
+epoch: 50, loss = 0.1765
+epoch: 75, loss = 0.1753
+epoch: 100, loss = 0.1751
+Accuracy = 0.8068
+--------------------------------
+iteration 82
+--------------------------------
+epoch: 25, loss = 0.1434
+epoch: 50, loss = 0.1244
+epoch: 75, loss = 0.1127
+epoch: 100, loss = 0.1058
+Accuracy = 0.7927
+--------------------------------
+iteration 83
+--------------------------------
+epoch: 25, loss = 0.1423
+epoch: 50, loss = 0.1631
+epoch: 75, loss = 0.1684
+epoch: 100, loss = 0.1673
+Accuracy = 0.8019
+--------------------------------
+iteration 84
+--------------------------------
+epoch: 25, loss = 0.1450
+epoch: 50, loss = 0.1325
+epoch: 75, loss = 0.1276
+epoch: 100, loss = 0.1248
+Accuracy = 0.7959
+--------------------------------
+iteration 85
+--------------------------------
+epoch: 25, loss = 0.2745
+epoch: 50, loss = 0.2141
+epoch: 75, loss = 0.1986
+epoch: 100, loss = 0.1890
+Accuracy = 0.7915
+--------------------------------
+iteration 86
+--------------------------------
+epoch: 25, loss = 0.2447
+epoch: 50, loss = 0.1820
+epoch: 75, loss = 0.1632
+epoch: 100, loss = 0.1536
+Accuracy = 0.7969
+--------------------------------
+iteration 87
+--------------------------------
+epoch: 25, loss = 0.1234
+epoch: 50, loss = 0.1135
+epoch: 75, loss = 0.1060
+epoch: 100, loss = 0.0996
+Accuracy = 0.7985
+--------------------------------
+iteration 88
+--------------------------------
+epoch: 25, loss = 0.1486
+epoch: 50, loss = 0.1159
+epoch: 75, loss = 0.1175
+epoch: 100, loss = 0.1141
+Accuracy = 0.8011
+--------------------------------
+iteration 89
+--------------------------------
+epoch: 25, loss = 0.2157
+epoch: 50, loss = 0.1841
+epoch: 75, loss = 0.1739
+epoch: 100, loss = 0.1689
+Accuracy = 0.7961
+--------------------------------
+iteration 90
+--------------------------------
+epoch: 25, loss = 0.1081
+epoch: 50, loss = 0.1084
+epoch: 75, loss = 0.1064
+epoch: 100, loss = 0.1049
+Accuracy = 0.8096
+--------------------------------
+iteration 91
+--------------------------------
+epoch: 25, loss = 0.1982
+epoch: 50, loss = 0.1820
+epoch: 75, loss = 0.1734
+epoch: 100, loss = 0.1671
+Accuracy = 0.8012
+--------------------------------
+iteration 92
+--------------------------------
+epoch: 25, loss = 0.1799
+epoch: 50, loss = 0.1818
+epoch: 75, loss = 0.1816
+epoch: 100, loss = 0.1802
+Accuracy = 0.7942
+--------------------------------
+iteration 93
+--------------------------------
+epoch: 25, loss = 0.1982
+epoch: 50, loss = 0.1743
+epoch: 75, loss = 0.1758
+epoch: 100, loss = 0.1806
+Accuracy = 0.8058
+--------------------------------
+iteration 94
+--------------------------------
+epoch: 25, loss = 0.1004
+epoch: 50, loss = 0.0918
+epoch: 75, loss = 0.0911
+epoch: 100, loss = 0.0909
+Accuracy = 0.8062
+--------------------------------
+iteration 95
+--------------------------------
+epoch: 25, loss = 0.1724
+epoch: 50, loss = 0.1423
+epoch: 75, loss = 0.1376
+epoch: 100, loss = 0.1372
+Accuracy = 0.8067
+--------------------------------
+iteration 96
+--------------------------------
+epoch: 25, loss = 0.2093
+epoch: 50, loss = 0.1824
+epoch: 75, loss = 0.1702
+epoch: 100, loss = 0.1629
+Accuracy = 0.7924
+--------------------------------
+iteration 97
+--------------------------------
+epoch: 25, loss = 0.1520
+epoch: 50, loss = 0.1304
+epoch: 75, loss = 0.1187
+epoch: 100, loss = 0.1113
+Accuracy = 0.7887
+--------------------------------
+iteration 98
+--------------------------------
+epoch: 25, loss = 0.1726
+epoch: 50, loss = 0.1514
+epoch: 75, loss = 0.1430
+epoch: 100, loss = 0.1380
+Accuracy = 0.7928
+--------------------------------
+iteration 99
+--------------------------------
+epoch: 25, loss = 0.2338
+epoch: 50, loss = 0.2338
+epoch: 75, loss = 0.2322
+epoch: 100, loss = 0.2300
+Accuracy = 0.8003
+--------------------------------
+[tensor(0.7936)]
+[tensor(0.8029)]
+[tensor(0.8086)]
+[tensor(0.7939)]
+[tensor(0.8089)]
+[tensor(0.7995)]
+[tensor(0.7970)]
+[tensor(0.8039)]
+[tensor(0.7985)]
+[tensor(0.8018)]
+[tensor(0.7868)]
+[tensor(0.8004)]
+[tensor(0.8100)]
+[tensor(0.7938)]
+[tensor(0.7886)]
+[tensor(0.7962)]
+[tensor(0.8038)]
+[tensor(0.7962)]
+[tensor(0.7979)]
+[tensor(0.8007)]
+[tensor(0.8073)]
+[tensor(0.7916)]
+[tensor(0.7880)]
+[tensor(0.8015)]
+[tensor(0.7862)]
+[tensor(0.7995)]
+[tensor(0.7839)]
+[tensor(0.8024)]
+[tensor(0.8062)]
+[tensor(0.8011)]
+[tensor(0.7965)]
+[tensor(0.7963)]
+[tensor(0.7970)]
+[tensor(0.7988)]
+[tensor(0.8037)]
+[tensor(0.7896)]
+[tensor(0.8161)]
+[tensor(0.7939)]
+[tensor(0.7999)]
+[tensor(0.7939)]
+[tensor(0.8037)]
+[tensor(0.8005)]
+[tensor(0.8035)]
+[tensor(0.7981)]
+[tensor(0.8036)]
+[tensor(0.7937)]
+[tensor(0.8069)]
+[tensor(0.8013)]
+[tensor(0.8034)]
+[tensor(0.8016)]
+[tensor(0.7919)]
+[tensor(0.8077)]
+[tensor(0.8143)]
+[tensor(0.7936)]
+[tensor(0.7924)]
+[tensor(0.8056)]
+[tensor(0.8017)]
+[tensor(0.8145)]
+[tensor(0.8100)]
+[tensor(0.8077)]
+[tensor(0.7905)]
+[tensor(0.7965)]
+[tensor(0.8033)]
+[tensor(0.8035)]
+[tensor(0.8032)]
+[tensor(0.7943)]
+[tensor(0.8098)]
+[tensor(0.7916)]
+[tensor(0.7916)]
+[tensor(0.8000)]
+[tensor(0.8071)]
+[tensor(0.7934)]
+[tensor(0.7976)]
+[tensor(0.7926)]
+[tensor(0.7970)]
+[tensor(0.7925)]
+[tensor(0.8137)]
+[tensor(0.7975)]
+[tensor(0.8030)]
+[tensor(0.7928)]
+[tensor(0.7906)]
+[tensor(0.8068)]
+[tensor(0.7927)]
+[tensor(0.8019)]
+[tensor(0.7959)]
+[tensor(0.7915)]
+[tensor(0.7969)]
+[tensor(0.7985)]
+[tensor(0.8011)]
+[tensor(0.7961)]
+[tensor(0.8096)]
+[tensor(0.8012)]
+[tensor(0.7942)]
+[tensor(0.8058)]
+[tensor(0.8062)]
+[tensor(0.8067)]
+[tensor(0.7924)]
+[tensor(0.7887)]
+[tensor(0.7928)]
+[tensor(0.8003)]

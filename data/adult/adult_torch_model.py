@@ -12,8 +12,12 @@ from data_preprocessing import *
 
 class AdultDataset(Dataset):
 
-    def __init__(self):
-        adult = pd.read_csv("data/adult/adult.data")
+    def __init__(self, train = True):
+        if train:
+            adult = pd.read_csv("data/adult/adult.data")
+        else:
+            adult = pd.read_csv("data/adult/adult.test")
+
         adult.columns = get_labels_from("data/adult/adult.columns_raw")
         
         self.scaler = MinMaxScaler()
@@ -44,5 +48,5 @@ class AdultDataset(Dataset):
     def __len__(self):
         return self.n_samples
 
-dataset = AdultDataset()
+dataset = AdultDataset(train=False)
 first = dataset[0]
